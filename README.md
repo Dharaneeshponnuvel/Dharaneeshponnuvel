@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dharaneesh
 - 👀 I’m interested in Codeing
 - 🌱 I’m currently learning  web development
-- 💞️ I’m looking to collaborate with some IT companies
+- 💞️ I’m looking to collaborate with some basic work
 - 📫 How to reach me call=6379709001,mail=dharaneeshp56@gmail.com
 
 <!---
